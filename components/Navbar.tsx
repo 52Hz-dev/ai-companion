@@ -35,7 +35,7 @@ const Navbar = () => {
             <Sparkle className="h-4 w-4 fill-white text-white"/>
         </Button>
         <ModeToggle/>
-        <UserButton />
+        <UserButton/>
       </div>
     </div>
   );
